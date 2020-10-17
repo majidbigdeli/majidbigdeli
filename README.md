@@ -8,8 +8,6 @@ Seven years ago he fell in love with the [C# programming language](https://docs.
 
 [![majidbigdeli Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidbigdeli&layout=compact&theme=algolia)](https://bit.ly/2DRJEXJ)
 
-Regularly advices startups and individuals on the latest web technologies.
-
 <!-- <a href="https://bit.ly/2DRJEXJ" target="_new">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kataras&show_icons=true&theme=default" />
 </a>
