@@ -2,7 +2,7 @@
 
 [![majidbigdeli GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidbigdeli&show_icons=false&theme=algolia)](https://bit.ly/2DRJEXJ)
 
-He is a self-taught developer with 8+ years of experience who loves talking to people, cooking and programming languages, not exactly in that order. He has contributed to various open-source projects. majid is studying at the Department of Computer, Informatics and Cellular Telecommunication Engineering of the [Iran University of Science and Technology](http://www.iust.ac.ir/).
+He is a self-taught developer with 8+ years of experience who loves programming languages.  majid is studying at the Department of Computer, Informatics and Cellular Telecommunication Engineering of the [Iran University of Science and Technology](http://www.iust.ac.ir/).
 
 Seven years ago he fell in love with the [C# programming language](https://docs.microsoft.com/en-us/dotnet/csharp/), and since then he hasn't cheated on for any other. Proof Of Concept:
 
