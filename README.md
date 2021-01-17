@@ -1,6 +1,3 @@
-# Let's talk about Majid Bigdeli [![HitCount](http://hits.dwyl.com/majidbigdeli/majidbigdeli.svg)](http://hits.dwyl.com/majidbigdeli/majidbigdeli)
-
-[![majidbigdeli GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidbigdeli&show_icons=false&theme=algolia)](https://bit.ly/2DRJEXJ)
 
 He is a self-taught developer with 8+ years of experience who loves programming languages.  majid is studying at the Department of Computer, Informatics and Cellular Telecommunication Engineering of the [Iran University of Science and Technology](http://www.iust.ac.ir/).
 
